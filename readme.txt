@@ -9,7 +9,7 @@ Intro
 -----
 Cratis is a matrix transformer program that uses file processing
 to acquire data for generating matrices. Users may choose one of
-four multidimensional action keys, which shift the vector elements
+four multidirectional action keys, which shift the vector elements
 according to the provided input.
 
 
